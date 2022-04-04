@@ -1,0 +1,2 @@
+This is 2nf, because it 1nf, and we have primary key and all attributes describe all parts of primary key.
+It is 1nf, because all strings are unique (we have primary key), all attributes are simple and all attributes has scalar values.
